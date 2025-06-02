@@ -1,0 +1,17 @@
+com\example\sistema_financeiro\controller\CategoriaController.class
+com\example\sistema_financeiro\SistemaFinanceiroApplication.class
+com\example\sistema_financeiro\dto\CategoriaDTO.class
+com\example\sistema_financeiro\dto\EnderecoDTO.class
+com\example\sistema_financeiro\repository\CategoriaRepository.class
+com\example\sistema_financeiro\repository\LancamentoRepository.class
+com\example\sistema_financeiro\config\CorsConfig.class
+com\example\sistema_financeiro\controller\LancamentoController.class
+com\example\sistema_financeiro\dto\LancamentoDTO.class
+com\example\sistema_financeiro\model\Lancamento.class
+com\example\sistema_financeiro\model\Categoria.class
+com\example\sistema_financeiro\model\TipoLancamento.class
+com\example\sistema_financeiro\model\Endereco.class
+com\example\sistema_financeiro\controller\PessoaController.class
+com\example\sistema_financeiro\repository\PessoaRepository.class
+com\example\sistema_financeiro\dto\PessoaDTO.class
+com\example\sistema_financeiro\model\Pessoa.class
