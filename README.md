@@ -1,4 +1,7 @@
 # Sistema Financeiro
+
+<img src=/images/sistemafinanceiro.png alt="Demonstração da Aplicação Web interligada a API">
+
 Projeto de um Sistema Financeiro simples, usado para o intuito de experimentar frameworks Java e como fazer uma API Rest, com integração de banco de dados, regras de relacionamento
 <br> Seu objetivo é registrar e gerenciar lançamentos financeiros, incluindo débitos e créditos. A aplicação permite a criação, leitura, atualização e exclusão (CRUD) de lançamentos, pessoas físicas(clientes) e pessoas jurídicas(fornecedores). O uso do Spring Boot, juntamente com as outras tecnologias, permite um desenvolvimento ágil e eficiente, atendendo às especificações do professor.
 
@@ -182,6 +185,8 @@ sistema-financeiro/
 Observação: O frontend é uma demonstração visual e não está completamente integrado com a API. 
 
 ## Solução de Problemas
+
+<img src=/images/mensagemdeerro.png alt="Mensagem de Erro na aplicação Web">
 
 ### Erro de Conexão com o Banco de Dados
 - Verifique se o MySQL está em execução
